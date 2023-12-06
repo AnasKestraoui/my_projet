@@ -1,4 +1,4 @@
-#my projet 
+# my projet 
 ### 1.create a new directory
 ```
 git clone <url https >
